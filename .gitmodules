@@ -11,7 +11,7 @@
   branch = ngen
 [submodule "extern/cfe/cfe"]
 	path = extern/cfe/cfe
-	url = https://github.com/NOAA-OWP/cfe.git
+	url = https://github.com/yduan13/cfe.git
 	branch = master
 [submodule "extern/topmodel/topmodel"]
 	path = extern/topmodel/topmodel
